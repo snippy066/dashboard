@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-basic {
+    padding:40px 0;
+    background-color:#ffffff;
+    color:#4b4c4d;
+  }
+  
+
+  .dive{
+      margin-top: -20px;
+      background-color: black;
+      height: 40px;
+      padding: 10px;
+      margin-bottom: -30px;
+  }
+  span{
+      margin: 90px;
+  }
+
